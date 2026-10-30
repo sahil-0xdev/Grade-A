@@ -1,0 +1,5 @@
+student_id,student_name,class,section,total_classes,classes_attended,total_assignments,assignments_submitted,average_marks
+STU-2001,Maya Angelou,Senior,S1,60,56,10,9,88
+STU-2002,Albert Einstein,Senior,S2,60,42,10,6,74
+STU-2003,Ada Lovelace,Grade 11,A,55,53,10,10,95
+STU-2004,Alan Turing,Grade 10,B,50,32,10,4,48
